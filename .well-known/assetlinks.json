@@ -1,1 +1,9 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jeff2earth.gatefoldreader",
+    "sha256_cert_fingerprints": ["74:D6:32:88:7F:1F:1D:43:CC:52:1E:6B:D3:FE:9D:10:2A:9D:D9:AE:87:D4:44:5D:70:F7:14:8D:7F:61:F8:28"]
+  }
+}]
